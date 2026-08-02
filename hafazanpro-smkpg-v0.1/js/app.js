@@ -1,0 +1,1 @@
+console.log('HafazanPro v0.1');

@@ -1,0 +1,8 @@
+{
+"name":"HafazanPro SMK Pasir Gudang",
+"short_name":"HafazanPro",
+"display":"standalone",
+"start_url":"./",
+"theme_color":"#0B5D4B",
+"background_color":"#F8FAFC"
+}
